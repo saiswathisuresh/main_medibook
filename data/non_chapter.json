@@ -1,0 +1,853 @@
+[
+{
+  "title": "Accelerated phase chronic myeloid leukemia: Diagnosis and treatment",
+  "headings": [
+    {
+      "heading": "INTRODUCTION",
+      "subheadings": []
+    },
+    {
+      "heading": "PRETREATMENT EVALUATION",
+      "subheadings": [
+        "Clinical and laboratory",
+        "History",
+        "Physical examination",
+        "Performance status",
+        "Laboratory",
+        "Clinical tests",
+        "BCR-ABL1",
+        "Bone marrow morphology",
+        "Karyotype",
+        "Mutation testing — BCR-ABL1",
+        "Hematopoietic cell transplantation evaluation"
+      ]
+    },
+    {
+      "heading": "DIAGNOSIS OF AP CML",
+      "subheadings": [
+        "World Health Organization",
+        "Other models",
+        "European LeukemiaNet (ELN)",
+        "MDACC (MD Anderson Cancer Center)",
+        "Sokal"
+      ]
+    },
+    {
+      "heading": "MANAGEMENT",
+      "subheadings": [
+        "De novo versus transformed AP",
+        "Treatment of de novo AP CML",
+        "Selection of a TKI",
+        "Outcomes"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Treatment of chronic myeloid leukemia in blast crisis",
+  "headings": [
+    {
+      "heading": "INTRODUCTION",
+      "subheadings": []
+    },
+    {
+      "heading": "DEFINITION OF BLAST CRISIS",
+      "subheadings": [
+        "World Health Organization criteria",
+        "Myeloid blast crisis",
+        "Lymphoid blast crisis",
+        "Extramedullary blast proliferation"
+      ]
+    },
+    {
+      "heading": "EVALUATION UPON TRANSFORMATION",
+      "subheadings": [
+        "Laboratory studies",
+        "Bone marrow examination",
+        "BCR-ABL1 mutation analysis",
+        "HLA typing and transplant referral"
+      ]
+    },
+    {
+      "heading": "REMISSION INDUCTION",
+      "subheadings": [
+        "Goals of therapy",
+        "Myeloid blast crisis",
+        "Lymphoid blast crisis",
+        "Choice of TKI"
+      ]
+    },
+    {
+      "heading": "POST-REMISSION THERAPY",
+      "subheadings": [
+        "Assessment of HCT eligibility",
+        "Eligible for HCT",
+        "Ineligible for HCT"
+      ]
+    },
+    {
+      "heading": "TREATMENT AFTER FAILURE OF INITIAL THERAPY",
+      "subheadings": [
+        "Alternative TKIs",
+        "Chemotherapy combinations",
+        "Clinical trials"
+      ]
+    }
+  ]
+},
+
+{
+  "title": "Clinical manifestations and diagnosis of chronic myeloid leukemia",
+  "headings": [
+    {
+      "heading": "INTRODUCTION",
+      "subheadings": []
+    },
+    {
+      "heading": "EPIDEMIOLOGY",
+      "subheadings": [
+        "Incidence and prevalence",
+        "Risk factors"
+      ]
+    },
+    {
+      "heading": "CLINICAL MANIFESTATIONS",
+      "subheadings": [
+        "Chronic phase",
+        "Accelerated phase",
+        "Blast crisis",
+        "Systemic symptoms"
+      ]
+    },
+    {
+      "heading": "PATHOLOGIC FEATURES",
+      "subheadings": [
+        "Peripheral blood",
+        "Bone marrow biopsy"
+      ]
+    },
+    {
+      "heading": "GENETICS",
+      "subheadings": [
+        "Philadelphia chromosome",
+        "BCR-ABL1 fusion gene",
+        "Molecular variants"
+      ]
+    },
+    {
+      "heading": "DIAGNOSIS",
+      "subheadings": [
+        "Cytogenetic testing",
+        "FISH",
+        "RT-PCR"
+      ]
+    },
+    {
+      "heading": "DIFFERENTIAL DIAGNOSIS",
+      "subheadings": [
+        "Leukemoid reaction",
+        "Other myeloproliferative neoplasms",
+        "Philadelphia chromosome-positive leukemias"
+      ]
+    },
+    {
+      "heading": "PROGNOSIS",
+      "subheadings": [
+        "Risk stratification",
+        "Sokal score",
+        "Hasford (Euro) score",
+        "EUTOS score"
+      ]
+    }
+  ]
+}
+,
+{
+  "title": "Clinical manifestations and diagnosis of chronic myeloid leukemia",
+  "headings": [
+    {
+      "heading": "INTRODUCTION",
+      "subheadings": []
+    },
+    {
+      "heading": "EPIDEMIOLOGY",
+      "subheadings": [
+        "Incidence and prevalence",
+        "Risk factors"
+      ]
+    },
+    {
+      "heading": "CLINICAL MANIFESTATIONS",
+      "subheadings": [
+        "Chronic phase",
+        "Accelerated phase",
+        "Blast crisis",
+        "Systemic symptoms"
+      ]
+    },
+    {
+      "heading": "PATHOLOGIC FEATURES",
+      "subheadings": [
+        "Peripheral blood",
+        "Bone marrow biopsy"
+      ]
+    },
+    {
+      "heading": "GENETICS",
+      "subheadings": [
+        "Philadelphia chromosome",
+        "BCR-ABL1 fusion gene",
+        "Molecular variants"
+      ]
+    },
+    {
+      "heading": "DIAGNOSIS",
+      "subheadings": [
+        "Cytogenetic testing",
+        "FISH",
+        "RT-PCR"
+      ]
+    },
+    {
+      "heading": "DIFFERENTIAL DIAGNOSIS",
+      "subheadings": [
+        "Leukemoid reaction",
+        "Other myeloproliferative neoplasms",
+        "Philadelphia chromosome-positive leukemias"
+      ]
+    },
+    {
+      "heading": "PROGNOSIS",
+      "subheadings": [
+        "Risk stratification",
+        "Sokal score",
+        "Hasford (Euro) score",
+        "EUTOS score"
+      ]
+    }
+  ]
+}
+,
+{
+  "title": "Initial treatment of chronic myeloid leukemia in chronic phase",
+  "headings": [
+    {
+      "heading": "INTRODUCTION",
+      "subheadings": []
+    },
+    {
+      "heading": "GOALS OF CARE",
+      "subheadings": [
+        "Achieve clinical remission",
+        "Maintain long-term disease control",
+        "Prevent progression to accelerated phase or blast crisis",
+        "Optimize quality of life",
+        "Consider treatment-free remission"
+      ]
+    },
+    {
+      "heading": "PRETREATMENT EVALUATION",
+      "subheadings": [
+        "Clinical history and physical examination",
+        "Performance status and comorbidities",
+        "Laboratory studies",
+        "Complete blood count with differential",
+        "Serum chemistries",
+        "Hepatitis screening",
+        "Electrocardiogram",
+        "BCR-ABL1 quantitative PCR",
+        "Bone marrow examination",
+        "Cytogenetic analysis",
+        "Risk stratification scores"
+      ]
+    },
+    {
+      "heading": "RATIONALE FOR TKI TREATMENT",
+      "subheadings": [
+        "Role of BCR-ABL1 tyrosine kinase",
+        "Efficacy of tyrosine kinase inhibitors",
+        "Comparison with non-TKI therapies"
+      ]
+    },
+    {
+      "heading": "CHOOSING A TYROSINE KINASE INHIBITOR",
+      "subheadings": [
+        "Risk score assessment",
+        "Treatment-free remission as a goal",
+        "Patient comorbidities",
+        "Adverse effect profiles",
+        "Drug availability and cost",
+        "Patient preference"
+      ]
+    },
+    {
+      "heading": "INDIVIDUAL TYROSINE KINASE INHIBITORS",
+      "subheadings": [
+        "Imatinib",
+        "Nilotinib",
+        "Dasatinib",
+        "Bosutinib",
+        "Other TKIs"
+      ]
+    },
+    {
+      "heading": "TREATMENT RESPONSE",
+      "subheadings": [
+        "Hematologic response",
+        "Cytogenetic response",
+        "Molecular response",
+        "Response milestones",
+        "Failure to achieve milestones"
+      ]
+    },
+    {
+      "heading": "MONITORING TOXICITY",
+      "subheadings": [
+        "History and physical examination",
+        "Laboratory monitoring",
+        "Electrocardiographic monitoring",
+        "Management of common adverse effects",
+        "Hematologic toxicities",
+        "Cardiovascular toxicities",
+        "Pulmonary toxicities",
+        "Hepatic and pancreatic toxicities"
+      ]
+    },
+    {
+      "heading": "MANAGING TOXICITY",
+      "subheadings": [
+        "Dose reduction",
+        "Temporary treatment interruption",
+        "Switching to an alternative TKI",
+        "Supportive care measures"
+      ]
+    },
+    {
+      "heading": "TREATMENT-FREE REMISSION",
+      "subheadings": [
+        "Eligibility criteria",
+        "Monitoring during treatment discontinuation",
+        "Management of molecular relapse"
+      ]
+    }
+  ]
+}
+,
+{
+  "title": "Cellular and molecular biology of chronic myeloid leukemia",
+  "headings": [
+    {
+      "heading": "INTRODUCTION",
+      "subheadings": []
+    },
+    {
+      "heading": "CELL OF ORIGIN",
+      "subheadings": [
+        "Hematopoietic stem cell origin",
+        "Leukemia stem cells",
+        "Clonality and stem cell properties"
+      ]
+    },
+    {
+      "heading": "THE BCR-ABL1 FUSION PROTEIN",
+      "subheadings": [
+        "BCR gene",
+        "ABL1 gene",
+        "Structure and function of BCR-ABL1",
+        "Variants of BCR-ABL1"
+      ]
+    },
+    {
+      "heading": "BCR-ABL1 SIGNALING PATHWAYS",
+      "subheadings": [
+        "Tyrosine kinase activity",
+        "Kinase-dependent signaling",
+        "Kinase-independent pathways",
+        "Downstream signaling cascades"
+      ]
+    },
+    {
+      "heading": "PATHOGENESIS OF CHRONIC PHASE CML",
+      "subheadings": [
+        "Uncontrolled proliferation",
+        "Disordered maturation",
+        "Escape from apoptosis",
+        "Altered interaction with bone marrow microenvironment"
+      ]
+    },
+    {
+      "heading": "PROGRESSION TO ADVANCED PHASES",
+      "subheadings": [
+        "Accelerated phase",
+        "Blast crisis",
+        "Genetic instability",
+        "Differentiation arrest"
+      ]
+    },
+    {
+      "heading": "MOUSE AND XENOGRAFT MODELS OF CML",
+      "subheadings": [
+        "Retroviral transduction models",
+        "Transgenic mouse models",
+        "Xenograft models"
+      ]
+    }
+  ]
+}
+,
+{
+  "title": "Molecular genetics of chronic myeloid leukemia",
+  "headings": [
+    {
+      "heading": "INTRODUCTION",
+      "subheadings": []
+    },
+    {
+      "heading": "THE PHILADELPHIA CHROMOSOME",
+      "subheadings": [
+        "Discovery of the Philadelphia chromosome",
+        "t(9;22) translocation",
+        "Cytogenetic features"
+      ]
+    },
+    {
+      "heading": "BCR-ABL1 GENE AND TRANSCRIPTS",
+      "subheadings": [
+        "BCR and ABL1 gene structure",
+        "Breakpoint regions",
+        "p210, p190 and p230 transcripts"
+      ]
+    },
+    {
+      "heading": "DETECTION OF BCR-ABL1",
+      "subheadings": [
+        "Conventional cytogenetics",
+        "FISH",
+        "RT-PCR",
+        "Quantitative PCR"
+      ]
+    },
+    {
+      "heading": "MOLECULAR RESPONSE AND MONITORING",
+      "subheadings": [
+        "International Scale",
+        "Major molecular response",
+        "Deep molecular response",
+        "Minimal residual disease"
+      ]
+    },
+    {
+      "heading": "GENETIC VARIANTS AND ATYPICAL CML",
+      "subheadings": [
+        "Variant translocations",
+        "Ph-negative CML",
+        "Atypical CML"
+      ]
+    },
+    {
+      "heading": "GENETIC INSTABILITY AND PROGRESSION",
+      "subheadings": [
+        "Additional chromosomal abnormalities",
+        "Tumor suppressor gene alterations",
+        "Mechanisms of disease progression"
+      ]
+    }
+  ]
+}
+,
+{
+  "title": "Overview of the treatment of chronic myeloid leukemia",
+  "headings": [
+    {
+      "heading": "INTRODUCTION",
+      "subheadings": []
+    },
+    {
+      "heading": "DISEASE PHASES",
+      "subheadings": [
+        "Chronic phase",
+        "Accelerated phase",
+        "Blast phase"
+      ]
+    },
+    {
+      "heading": "PRETREATMENT EVALUATION",
+      "subheadings": [
+        "Clinical assessment",
+        "Laboratory evaluation",
+        "Cytogenetic and molecular testing",
+        "Risk stratification scores"
+      ]
+    },
+    {
+      "heading": "TREATMENT OVERVIEW",
+      "subheadings": [
+        "Goals of therapy",
+        "Role of tyrosine kinase inhibitors",
+        "Treatment selection principles"
+      ]
+    },
+    {
+      "heading": "INITIAL TREATMENT",
+      "subheadings": [
+        "Imatinib",
+        "Second-generation TKIs",
+        "Risk-adapted therapy"
+      ]
+    },
+    {
+      "heading": "MONITORING RESPONSE",
+      "subheadings": [
+        "Hematologic response",
+        "Cytogenetic response",
+        "Molecular response",
+        "Response milestones"
+      ]
+    },
+    {
+      "heading": "TREATMENT RESISTANCE AND INTOLERANCE",
+      "subheadings": [
+        "Definition of resistance",
+        "ABL1 kinase domain mutations",
+        "Management strategies"
+      ]
+    },
+    {
+      "heading": "TKI DISCONTINUATION",
+      "subheadings": [
+        "Treatment-free remission",
+        "Eligibility criteria",
+        "Monitoring after discontinuation"
+      ]
+    },
+    {
+      "heading": "ROLE OF TRANSPLANTATION",
+      "subheadings": [
+        "Indications for allogeneic HCT",
+        "Timing of transplantation"
+      ]
+    }
+  ]
+}
+,
+{
+  "title": "Reverse Warburg Effect in a Patient With Aggressive B-Cell Lymphoma",
+  "headings": [
+    {
+      "heading": "INTRODUCTION",
+      "subheadings": [
+        "Lactic acidosis in cancer",
+        "Type A and Type B lactic acidosis",
+        "Association with aggressive lymphomas"
+      ]
+    },
+    {
+      "heading": "CANCER METABOLISM BACKGROUND",
+      "subheadings": [
+        "Warburg effect",
+        "Reverse Warburg effect",
+        "Stromal–epithelial metabolic coupling"
+      ]
+    },
+    {
+      "heading": "CASE PRESENTATION",
+      "subheadings": [
+        "Clinical presentation",
+        "Laboratory findings",
+        "Imaging findings",
+        "Diagnosis"
+      ]
+    },
+    {
+      "heading": "PATHOPHYSIOLOGY",
+      "subheadings": [
+        "Role of lactate",
+        "Mitochondrial dysfunction",
+        "Tumor–stromal interactions"
+      ]
+    },
+    {
+      "heading": "MANAGEMENT AND OUTCOME",
+      "subheadings": [
+        "Therapeutic approach",
+        "Response to treatment",
+        "Clinical outcome"
+      ]
+    },
+    {
+      "heading": "DISCUSSION",
+      "subheadings": [
+        "Clinical implications",
+        "Prognostic significance",
+        "Comparison with previous reports"
+      ]
+    },
+    {
+      "heading": "CONCLUSION",
+      "subheadings": []
+    }
+  ]
+}
+,
+{
+  "title": "Acute Liver Failure Secondary to Malignant Infiltration",
+  "headings": [
+    {
+      "heading": "INTRODUCTION",
+      "subheadings": [
+        "Definition of acute liver failure",
+        "Common causes of acute liver failure",
+        "Malignant infiltration as a rare cause"
+      ]
+    },
+    {
+      "heading": "METHODS",
+      "subheadings": [
+        "Study design",
+        "Patient selection",
+        "Data collection"
+      ]
+    },
+    {
+      "heading": "CLINICAL PRESENTATION",
+      "subheadings": [
+        "Symptoms",
+        "Laboratory abnormalities",
+        "Radiological findings"
+      ]
+    },
+    {
+      "heading": "ETIOLOGY OF MALIGNANCY",
+      "subheadings": [
+        "Hematological malignancies",
+        "Solid tumors"
+      ]
+    },
+    {
+      "heading": "DIAGNOSTIC APPROACH",
+      "subheadings": [
+        "Role of imaging",
+        "Liver biopsy",
+        "Differential diagnosis"
+      ]
+    },
+    {
+      "heading": "TREATMENT AND MANAGEMENT",
+      "subheadings": [
+        "Supportive care",
+        "Chemotherapy",
+        "Liver transplantation"
+      ]
+    },
+    {
+      "heading": "OUTCOMES",
+      "subheadings": [
+        "Mortality",
+        "Survival outcomes"
+      ]
+    },
+    {
+      "heading": "DISCUSSION",
+      "subheadings": [
+        "Clinical challenges",
+        "Therapeutic implications"
+      ]
+    },
+    {
+      "heading": "CONCLUSION",
+      "subheadings": []
+    }
+  ]
+}
+,
+{
+  "title": "Adjuvant and Neoadjuvant Cancer Therapies: A Historical Review",
+  "headings": [
+    {
+      "heading": "INTRODUCTION",
+      "subheadings": [
+        "Concept of adjuvant therapy",
+        "Concept of neoadjuvant therapy"
+      ]
+    },
+    {
+      "heading": "HISTORICAL PERSPECTIVE",
+      "subheadings": [
+        "Early experimental evidence",
+        "Development of adjuvant chemotherapy",
+        "Evolution of neoadjuvant therapy"
+      ]
+    },
+    {
+      "heading": "PRINCIPLES OF DRUG DEVELOPMENT",
+      "subheadings": [
+        "Metastatic setting as a testing ground",
+        "Translation to early-stage disease"
+      ]
+    },
+    {
+      "heading": "CLINICAL OUTCOMES",
+      "subheadings": [
+        "Breast cancer",
+        "Colorectal cancer",
+        "Other solid tumors"
+      ]
+    },
+    {
+      "heading": "TUMOR KINETICS AND TREATMENT RESPONSE",
+      "subheadings": [
+        "Tumor growth models",
+        "Cell kill versus growth delay"
+      ]
+    },
+    {
+      "heading": "LIMITATIONS OF CURRENT APPROACHES",
+      "subheadings": [
+        "Reasons for limited survival benefit",
+        "Biological explanations"
+      ]
+    },
+    {
+      "heading": "FUTURE DIRECTIONS",
+      "subheadings": [
+        "Rational trial design",
+        "Improving adjuvant and neoadjuvant success"
+      ]
+    },
+    {
+      "heading": "CONCLUSION",
+      "subheadings": []
+    }
+  ]
+}
+,
+{
+  "title": "Adjuvant and Neoadjuvant Cancer Therapies: A Historical Review",
+  "headings": [
+    {
+      "heading": "INTRODUCTION",
+      "subheadings": [
+        "Concept of adjuvant therapy",
+        "Concept of neoadjuvant therapy"
+      ]
+    },
+    {
+      "heading": "HISTORICAL PERSPECTIVE",
+      "subheadings": [
+        "Early experimental evidence",
+        "Development of adjuvant chemotherapy",
+        "Evolution of neoadjuvant therapy"
+      ]
+    },
+    {
+      "heading": "PRINCIPLES OF DRUG DEVELOPMENT",
+      "subheadings": [
+        "Metastatic setting as a testing ground",
+        "Translation to early-stage disease"
+      ]
+    },
+    {
+      "heading": "CLINICAL OUTCOMES",
+      "subheadings": [
+        "Breast cancer",
+        "Colorectal cancer",
+        "Other solid tumors"
+      ]
+    },
+    {
+      "heading": "TUMOR KINETICS AND TREATMENT RESPONSE",
+      "subheadings": [
+        "Tumor growth models",
+        "Cell kill versus growth delay"
+      ]
+    },
+    {
+      "heading": "LIMITATIONS OF CURRENT APPROACHES",
+      "subheadings": [
+        "Reasons for limited survival benefit",
+        "Biological explanations"
+      ]
+    },
+    {
+      "heading": "FUTURE DIRECTIONS",
+      "subheadings": [
+        "Rational trial design",
+        "Improving adjuvant and neoadjuvant success"
+      ]
+    },
+    {
+      "heading": "CONCLUSION",
+      "subheadings": []
+    }
+  ]
+}
+,
+{
+  "title": "New Insights into Adjuvant Therapy for Localized Colon Cancer",
+  "headings": [
+    {
+      "heading": "INTRODUCTION",
+      "subheadings": [
+        "Epidemiology of colon cancer",
+        "Role of surgery",
+        "Rationale for adjuvant therapy"
+      ]
+    },
+    {
+      "heading": "CURRENT DECISION-MAKING IN LOCALIZED COLON CANCER",
+      "subheadings": [
+        "Stage II disease",
+        "Stage III disease",
+        "Clinicopathologic risk factors"
+      ]
+    },
+    {
+      "heading": "STANDARD ADJUVANT CHEMOTHERAPY",
+      "subheadings": [
+        "Fluoropyrimidine-based therapy",
+        "Oxaliplatin-containing regimens",
+        "MOSAIC, NSABP, XELOXA trials"
+      ]
+    },
+    {
+      "heading": "DURATION OF ADJUVANT THERAPY",
+      "subheadings": [
+        "IDEA collaboration",
+        "Three versus six months therapy",
+        "CAPOX versus FOLFOX"
+      ]
+    },
+    {
+      "heading": "CIRCULATING TUMOR DNA AND MINIMAL RESIDUAL DISEASE",
+      "subheadings": [
+        "Concept of ctDNA",
+        "Prognostic value of ctDNA",
+        "Detection methods"
+      ]
+    },
+    {
+      "heading": "CTDNA-GUIDED ADJUVANT STRATEGIES",
+      "subheadings": [
+        "Low-risk stage II disease",
+        "High-risk stage II and stage III disease",
+        "Ongoing clinical trials"
+      ]
+    },
+    {
+      "heading": "FUTURE PERSPECTIVES",
+      "subheadings": [
+        "Personalized adjuvant therapy",
+        "Integration of biomarkers"
+      ]
+    },
+    {
+      "heading": "CONCLUSION",
+      "subheadings": []
+    }
+  ]
+}
+
+
+
+]
